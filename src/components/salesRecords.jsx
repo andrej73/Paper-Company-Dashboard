@@ -31,6 +31,7 @@ function SalesRecords({ salesData }) {
         setEndDate(selectedEndDate)
     };
 
+    // Check if date range was picked, then update data array with filtered data. Otherwise keep the full initial list with all the data
     const filterSalesByDateRange = () => {
         if (startDate && endDate) {
             const filteredData = filteredSalesData.filter((sale) => {
