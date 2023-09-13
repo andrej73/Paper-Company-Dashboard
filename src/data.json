@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "dateSold": "2023-09-12",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 2,
+        "dateSold": "2023-09-11",
+        "productName": "Legal Size Paper",
+        "price": 7.49
+    },
+    {
+        "id": 3,
+        "dateSold": "2023-09-10",
+        "productName": "Notebook Paper",
+        "price": 4.99
+    },
+    {
+        "id": 4,
+        "dateSold": "2023-09-09",
+        "productName": "Envelopes",
+        "price": 6.99
+    },
+    {
+        "id": 5,
+        "dateSold": "2023-09-08",
+        "productName": "Construction Paper",
+        "price": 8.99
+    },
+    {
+        "id": 6,
+        "dateSold": "2023-09-07",
+        "productName": "Printer Paper",
+        "price": 5.49
+    },
+    {
+        "id": 7,
+        "dateSold": "2023-09-06",
+        "productName": "Notepads",
+        "price": 3.99
+    },
+    {
+        "id": 8,
+        "dateSold": "2023-09-05",
+        "productName": "Cardstock",
+        "price": 9.99
+    },
+    {
+        "id": 9,
+        "dateSold": "2023-09-04",
+        "productName": "Sketchbooks",
+        "price": 12.99
+    },
+    {
+        "id": 10,
+        "dateSold": "2023-09-03",
+        "productName": "Sticky Notes",
+        "price": 2.49
+    },
+    {
+        "id": 11,
+        "dateSold": "2023-09-03",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 12,
+        "dateSold": "2023-09-04",
+        "productName": "Legal Size Paper",
+        "price": 7.49
+    },
+    {
+        "id": 13,
+        "dateSold": "2023-09-05",
+        "productName": "A4 Copy Paper",
+        "price": 4.99
+    },
+    {
+        "id": 14,
+        "dateSold": "2023-09-06",
+        "productName": "Envelopes",
+        "price": 6.99
+    },
+    {
+        "id": 15,
+        "dateSold": "2023-09-07",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 16,
+        "dateSold": "2023-09-10",
+        "productName": "Printer Paper",
+        "price": 5.49
+    },
+    {
+        "id": 17,
+        "dateSold": "2023-09-10",
+        "productName": "Notepads",
+        "price": 3.99
+    },
+    {
+        "id": 18,
+        "dateSold": "2023-09-12",
+        "productName": "Cardstock",
+        "price": 9.99
+    },
+    {
+        "id": 19,
+        "dateSold": "2023-09-06",
+        "productName": "Sketchbooks",
+        "price": 12.99
+    },
+    {
+        "id": 20,
+        "dateSold": "2023-09-02",
+        "productName": "Sticky Notes",
+        "price": 2.49
+    },
+    {
+        "id": 21,
+        "dateSold": "2023-09-01",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 22,
+        "dateSold": "2023-09-01",
+        "productName": "Legal Size Paper",
+        "price": 7.49
+    },
+    {
+        "id": 23,
+        "dateSold": "2023-09-12",
+        "productName": "Notebook Paper",
+        "price": 4.99
+    },
+    {
+        "id": 24,
+        "dateSold": "2023-09-11",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 25,
+        "dateSold": "2023-09-04",
+        "productName": "Construction Paper",
+        "price": 8.99
+    },
+    {
+        "id": 26,
+        "dateSold": "2023-09-03",
+        "productName": "Printer Paper",
+        "price": 5.49
+    },
+    {
+        "id": 27,
+        "dateSold": "2023-09-06",
+        "productName": "Notepads",
+        "price": 3.99
+    },
+    {
+        "id": 28,
+        "dateSold": "2023-09-09",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 29,
+        "dateSold": "2023-09-08",
+        "productName": "Sketchbooks",
+        "price": 12.99
+    },
+    {
+        "id": 30,
+        "dateSold": "2023-09-03",
+        "productName": "Sticky Notes",
+        "price": 2.49
+    },
+    {
+        "id": 31,
+        "dateSold": "2023-09-08",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 32,
+        "dateSold": "2023-09-06",
+        "productName": "Legal Size Paper",
+        "price": 7.49
+    },
+    {
+        "id": 33,
+        "dateSold": "2023-09-02",
+        "productName": "Notebook Paper",
+        "price": 4.99
+    },
+    {
+        "id": 34,
+        "dateSold": "2023-09-11",
+        "productName": "Notepads",
+        "price": 6.99
+    },
+    {
+        "id": 35,
+        "dateSold": "2023-09-04",
+        "productName": "Construction Paper",
+        "price": 8.99
+    },
+    {
+        "id": 36,
+        "dateSold": "2023-09-12",
+        "productName": "A4 Copy Paper",
+        "price": 5.99
+    },
+    {
+        "id": 37,
+        "dateSold": "2023-09-06",
+        "productName": "Notepads",
+        "price": 3.99
+    },
+    {
+        "id": 38,
+        "dateSold": "2023-09-01",
+        "productName": "Cardstock",
+        "price": 9.99
+    },
+    {
+        "id": 39,
+        "dateSold": "2023-09-08",
+        "productName": "Sketchbooks",
+        "price": 12.99
+    },
+    {
+        "id": 40,
+        "dateSold": "2023-09-02",
+        "productName": "Sticky Notes",
+        "price": 2.49
+    }
+]
